@@ -75,7 +75,7 @@ Please find test cases excel sheet at root folder
 
 Please find the screen recording of the tests 
 
-/DepositSolutionsTestAssignment.mp4  
+/WireSupportTestAssignment.mp4  
  
  ## Test Screen Recording GoogleDrive link
  
